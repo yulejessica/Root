@@ -1,11 +1,7 @@
 ## Hey there 
 I'm Jessica Yu, A web developer who loves writing Javascript.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=g3root&label=Profile%20views&color=0e75b6&style=flat-square" alt="g3root" /> </p>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=g3root" alt="g3root" /></a> </p> -->
-<!-- 
-<p align="left"> <a href="https://twitter.com/nfs__21" target="blank"><img src="https://img.shields.io/twitter/follow/nfs__21?logo=twitter&style=for-the-badge" alt="nfs__21" /></a> </p> -->
+![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=yulejessica&show_icons=true&theme=radical)
 
 <!-- credits for the gif https://gph.is/g/ZWg5jr7 -->
 <img align="right" height="150" width="210" src="data.gif">
