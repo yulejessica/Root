@@ -14,7 +14,7 @@ I'm Jessica Yu, A web developer who loves writing Javascript.
 
 - 💬 **Ask me about:** Javascript, memes, food, shiba inu
 
-- ⚡ **Hobbies:** books, internet, music, travel, shiba inu
+- ⚡ **Hobbies:** cooking, fitness, music, travel, shiba inu
 
 - 😄 **Pronouns:** she/her
 
