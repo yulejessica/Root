@@ -20,11 +20,11 @@ I'm Jessica Yu, A web developer who loves writing Javascript.
 
 - 📫 How to reach me **yulejessica@gmail.com**
 
-- ⚡ Fun fact **It makes me so happy when my front and back are connected! **
+- ⚡ Fun fact **It makes me so happy when my front and back are connected!  **
 
 <h3 align="left">Connect with me:</h3>
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicaleyu) 
+
 
 <h3 align="left">Languages and Tools:</h3>
 
