@@ -27,6 +27,8 @@ I'm Jessica Yu, A web developer who loves writing Javascript.
 <a href="https://www.linkedin.com/in/yulejessica/"><img alt="LinkedIn" src="https://img.shields.io/badge/-yulejessica-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yulejessica/"></a>
 </p>
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicaleyu) 
+
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=javacript,html,css,react,nodejs,git,express,mysql,mongodb,postgres,aws)](https://skillicons.dev)
