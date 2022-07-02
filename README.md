@@ -36,3 +36,9 @@ I'm Jessica Yu, A web developer who loves writing Javascript.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=g3root&show_icons=true&locale=en" alt="g3root" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=g3root&" alt="g3root" /></p> -->
+
+## Portfolio Projects
+- [Atelier Rogue](https://github.com/fec-rogue/atelier-rogue) (Front End)
+- [EWOK](https://github.com/SDC-Ewok/SDC-Products) (Back End)
+- [Chores](https://github.com/Blue-Ocean-Pineapple/Chores) (Full Stack)
+- [Personal Blog](https://github.com/yulejessica/MVP) (Full Stack)
