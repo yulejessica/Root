@@ -23,9 +23,6 @@ I'm Jessica Yu, A web developer who loves writing Javascript.
 - ⚡ Fun fact **It makes me so happy when my front and back are connected! **
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/yulejessica/"><img alt="LinkedIn" src="https://img.shields.io/badge/-yulejessica-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yulejessica/"></a>
-</p>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicaleyu) 
 
