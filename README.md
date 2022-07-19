@@ -8,11 +8,11 @@ I'm Jessica Yu, A web developer who loves writing Javascript.
 
 - 🔭 **I’m currently working on:** Full Stack App
 
-- 🌱 **I’m currently learning:** system design 
+- 🌱 **I’m currently learning:** Typescript
 
 - 👯 **I’m looking to collaborate on:** full stack projects 
 
-- 💬 **Ask me about:** Javascript, memes, food, shiba inu
+- 💬 **Ask me about:** Javascript, memes, food, dogs
 
 - ⚡ **Hobbies:** cooking, fitness, music, travel, shiba inu
 
