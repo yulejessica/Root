@@ -8,9 +8,9 @@ I'm Jessica Yu, A web developer who loves writing Javascript.
 
 - 🔭 **I’m currently working on:** Full Stack App
 
-- 🌱 **I’m currently learning:** Typescript
+- 🌱 **I’m currently learning:** Redux
 
-- 👯 **I’m looking to collaborate on:** full stack projects 
+- 👯 **I’m looking to collaborate on:** full stack projects / Front End Projects
 
 - 💬 **Ask me about:** Javascript, memes, food, dogs
 
@@ -38,6 +38,7 @@ I'm Jessica Yu, A web developer who loves writing Javascript.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=g3root&" alt="g3root" /></p> -->
 
 ## Portfolio Projects
+- [Omni Food](https://omnifood-jy.netlify.app/) (Front End)
 - [Atelier Rogue](https://github.com/fec-rogue/atelier-rogue-Related) (Front End)
 - [EWOK](https://github.com/SDC-Ewok/SDC-Products) (Back End)
 - [Chores](https://github.com/Blue-Ocean-Pineapple/Chores) (Full Stack)
