@@ -1,5 +1,5 @@
 ## Hey there 
-I'm Jessica Yu, A web developer who loves writing Javascript.
+I'm Jessica Yu, A Fullstack web developer who loves writing Javascript.
 
 ![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=yulejessica&show_icons=true&theme=radical)
 
@@ -20,7 +20,7 @@ I'm Jessica Yu, A web developer who loves writing Javascript.
 
 - 📫 How to reach me **yulejessica@gmail.com**
 
-- ⚡ Fun fact **It makes me so happy when my front and back are connected!  **
+- ⚡ Fun fact ** It gets me mad when I see type:any in typescipt lmao  **
 
 <h3 align="left">Connect with me:</h3>
 
